@@ -1,0 +1,24 @@
+v1.0.12 (26.04.2012)
+====================
+* Neues Login-Icon
+
+v1.0.11 (25.04.2012)
+====================
+* Twitter-Integration (Beta)
+
+v1.0.10 (25.04.2012)
+====================
+* Fix für Tap-Handler der Detailsicht
+* Optische Anpassungen
+
+v1.0.9 (23.04.2012)
+===================
+* Bugfix App-Version
+* Ajax-Request via Ext statt jQuery
+* Neues Logout-Icon
+* Download-Log erweitert
+
+v1.0.8 (23.04.2012)
+===================
+* Update auf Phonegap 1.6.1
+* Local- und Webstorage-Bug ab iOS 5.1 gefixt (-> Phonegap)
